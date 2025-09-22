@@ -1,4 +1,4 @@
-#Jenkins Pipeline for Node.js Demo App
+Jenkins Pipeline for Node.js Demo App
 
 This repository contains a Jenkins pipeline configuration to automate the build, test, and deployment of a Node.js demo application to Docker Hub. Below are the detailed steps to set up and run the pipeline.
 
@@ -141,6 +141,9 @@ Screenshot of Working Pipeline
 ![dockerhub images](image-1.png)
 
 
+Note
+
+I used code from someone else and only made some changes to adapt it to my needs.
 
 Troubleshooting
 
